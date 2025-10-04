@@ -91,7 +91,7 @@ public class TurtleBrain implements TurtleAccessInternal {
     private int selectedSlot = 0;
     private int fuelLevel = 0;
     private int colourHex = -1;
-    private @Nullable Holder<TurtleOverlay> overlay = null;
+    private @Nullable ResourceLocation overlay = null;
     private int rotationShaft = 0;
 
     private TurtleAnimation animation = TurtleAnimation.NONE;

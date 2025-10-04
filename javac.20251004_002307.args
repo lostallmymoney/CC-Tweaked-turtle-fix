@@ -1,0 +1,7 @@
+-cp
+.:projects/common/src/main/java
+-sourcepath
+projects/common/src/main/java
+-d
+/tmp/javac-test
+projects/common/src/main/java/dan200/computercraft/shared/turtle/core/TurtleBrain.java
