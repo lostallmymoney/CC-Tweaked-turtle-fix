@@ -37,3 +37,4 @@
 *.launch
 
 /projects/*/src/generated/resources/.cache
+*.args
